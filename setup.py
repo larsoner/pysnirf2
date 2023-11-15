@@ -87,7 +87,7 @@ setup(
     url='https://github.com/BUNPC/pysnirf2',
     packages=find_packages(exclude=('tests', 'gen')),
     include_package_data=True,
-    license='GPLv3',
+    license='GPL-3.0-only',
     classifiers=[
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python',
